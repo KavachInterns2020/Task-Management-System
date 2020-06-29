@@ -1,2 +1,2 @@
 # Task-Management-System
-This project assigned to team no. 23
+This project is assigned to team no. 23
